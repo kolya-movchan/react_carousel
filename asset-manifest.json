@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.b5587fd2.chunk.css",
-    "main.js": "./static/js/main.ecbfb717.chunk.js",
-    "main.js.map": "./static/js/main.ecbfb717.chunk.js.map",
+    "main.css": "./static/css/main.151cd3f2.chunk.css",
+    "main.js": "./static/js/main.351e2319.chunk.js",
+    "main.js.map": "./static/js/main.351e2319.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.cb4297d9.js",
     "runtime-main.js.map": "./static/js/runtime-main.cb4297d9.js.map",
     "static/js/2.e5165e7b.chunk.js": "./static/js/2.e5165e7b.chunk.js",
     "static/js/2.e5165e7b.chunk.js.map": "./static/js/2.e5165e7b.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.b5587fd2.chunk.css.map": "./static/css/main.b5587fd2.chunk.css.map",
+    "static/css/main.151cd3f2.chunk.css.map": "./static/css/main.151cd3f2.chunk.css.map",
     "static/js/2.e5165e7b.chunk.js.LICENSE.txt": "./static/js/2.e5165e7b.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/emoji-framed.ce14cd52.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.cb4297d9.js",
     "static/js/2.e5165e7b.chunk.js",
-    "static/css/main.b5587fd2.chunk.css",
-    "static/js/main.ecbfb717.chunk.js"
+    "static/css/main.151cd3f2.chunk.css",
+    "static/js/main.351e2319.chunk.js"
   ]
 }
